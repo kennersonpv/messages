@@ -1,5 +1,5 @@
 import { MessagesRepository } from "./messages.repository";
-export class MessagesServices{
+export class MessagesService{
   messagesRespository: MessagesRepository
 
   constructor(){
